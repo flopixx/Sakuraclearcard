@@ -6,7 +6,7 @@ import Homecarts from "./pages/Homecarts/Homecarts";
 import SakuraProvider from "./Context/SakuraContext";
 import ThemeProvider from "./Context/Themecontext";
 import FavoritesProvider from "./Context/Favoritescontext";
-import Favorites from "./pages/Favorites";
+import Favorites from "./pages/Favorites/Favorites";
 import Characters from "./pages/Characters/Characters";
 import Sakuracards from "./pages/Sakuracards/Sakuracards";
 

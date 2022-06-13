@@ -4,7 +4,7 @@
 }
 
 .favo {
-	background: url("../img/sakura-card.jpeg");
+	background: url("../../img/sakura-card.jpeg");
 	background-repeat: no-repeat;
 	height: 120vh;
 	width: 100%;
@@ -14,7 +14,7 @@
 	background-size: cover;
 }
 .noimage {
-	background: url("../img/fav.gif");
+	background: url("../../img/fav.gif");
 	background-repeat: no-repeat;
 	background-position: 50% center;
 	background-size: contain;
