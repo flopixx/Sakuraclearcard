@@ -1,0 +1,23 @@
+.dark {
+	background: url("../../img/saki.jpeg");
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.light {
+	background-image: url("../../img/sakuu.jpeg");
+	height: 100%;
+	background-repeat: no-repeat;
+	max-width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+@media screen and (max-width: 768px) {
+	.dark {
+		background: url("../../img/oscuro2\)\ \(2\).jpeg");
+	}
+}

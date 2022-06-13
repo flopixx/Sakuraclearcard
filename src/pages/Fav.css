@@ -1,0 +1,32 @@
+.favorites__container {
+	background-color: #98d6ea;
+	height: 100%;
+}
+
+.favo {
+	background: url("../img/sakura-card.jpeg");
+	background-repeat: no-repeat;
+	height: 120vh;
+	width: 100%;
+	height: auto;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.noimage {
+	background: url("../img/fav.gif");
+	background-repeat: no-repeat;
+	background-position: 50% center;
+	background-size: contain;
+	height: 60vh;
+	width: 100%;
+	margin: 40px 0;
+}
+
+p {
+	text-align: center;
+	color: #f21170;
+	font-weight: bold;
+	font-family: Delius Swash Caps;
+	font-size: var(--fontbig);
+}
